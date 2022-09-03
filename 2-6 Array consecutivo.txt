@@ -1,0 +1,12 @@
+Ratiorg recibió estatuas de diferentes tamaños como regalo de CodeMaster para su cumpleaños, cada estatua tenía un tamaño entero no negativo. Como le gusta hacer las cosas perfectas, quiere ordenarlas de menor a mayor para que cada estatua sea más grande que la anterior exactamente en 1. Es posible que necesite estatuas adicionales para poder lograrlo. Ayúdalo a calcular el número mínimo de estatuas adicionales necesarias.
+
+Ejemplo:
+For statues = [6, 2, 3, 8], the output should be
+solution(statues) = 3.
+
+Ratiorg needs statues of sizes 4, 5 and 7.
+
+Referencias usadas: 
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+https://matiashernandez.dev/blog/post/4-formas-de-eliminar-elementos-duplicados-en-un-arreglo-con-javascript
+Si diff es 0 ó NaN ó undefined ó null entonces es false, cualquier numero es true
