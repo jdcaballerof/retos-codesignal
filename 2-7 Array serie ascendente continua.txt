@@ -1,0 +1,11 @@
+Dada una secuencia de enteros en un arreglo, determine si es posible obtener una secuencia estrictamente creciente eliminando no más de un elemento del arreglo. 
+Nota: la secuencia a0, a1, ..., an se considera estrictamente creciente si a0 < a1 < ... < an. 
+La secuencia que contiene solo un elemento también se considera estrictamente creciente.
+
+For sequence = [1, 3, 2, 1], the output should be
+solution(sequence) = false.
+
+For sequence = [1, 3, 2], the output should be
+solution(sequence) = true.
+
+
