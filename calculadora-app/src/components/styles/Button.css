@@ -1,0 +1,27 @@
+.button-wrapper {
+  height: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  background-color: #5a5a5a;
+  color: white;
+  margin: 4px;
+  border-radius: 25px;
+}
+
+.subigual{
+  grid-column: 4 / 5;
+  grid-row: 4 / 6;
+  padding: 52px 0;
+}
+
+.subzero{
+  grid-column: 2 / 4 !important;
+}
+
+
+
+.colorOrange{
+  background-color: orange;
+}
